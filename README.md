@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
+  <img src="https://novatorem-ten-ochre.vercel.app/?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
