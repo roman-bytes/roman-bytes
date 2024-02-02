@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://novatorem-ten-ochre.vercel.app/?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
+  [![Spotify](https://roman-bytes.vercel.app/api/spotify)](https://open.spotify.com/user/1236786900)
 </div>
 
 ###
