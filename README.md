@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  ![Spotify](https://novatorem-ten-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/1236786900)
+  [![Spotify](https://novatorem-ten-ochre.vercel.app/api/spotify)](https://open.spotify.com/user/1236786900)
 </div>
 
 ###
