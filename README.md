@@ -53,7 +53,9 @@
 ###
 
 <div align="center">
-  [![Spotify](https://novatorem-ten-ochre.vercel.app/api/spotify)]
+
+[![Spotify](https://novatorem-ten-ochre.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
+
 </div>
 
 ###
